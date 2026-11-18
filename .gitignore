@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# Xcode: per-user state and build products
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+*.xcresult
+*.profraw
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# Editors and local tooling
+.vscode/
+.idea/
+buildServer.json
+
+# Local state of AI assistants
+.claude/
+.nanoteams/

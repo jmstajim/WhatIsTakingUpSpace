@@ -1,0 +1,34 @@
+{
+  "fill": {
+    "automatic-gradient": "extended-srgb:0.16471,0.17647,0.20784,1.00000"
+  },
+  "groups": [
+    {
+      "layers": [
+        {
+          "image-name": "Largest.svg",
+          "name": "Largest"
+        },
+        {
+          "image-name": "Second.svg",
+          "name": "Second"
+        },
+        {
+          "image-name": "Rest.svg",
+          "name": "Rest"
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.5
+      },
+      "translucency": {
+        "enabled": false,
+        "value": 0.5
+      }
+    }
+  ],
+  "supported-platforms": {
+    "squares": "shared"
+  }
+}
