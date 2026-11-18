@@ -1,11 +1,30 @@
-# What Is Taking Up Space
+<p align="center">
+  <img src="docs/icon.png" alt="" width="128" height="128">
+</p>
 
-**A macOS disk analyzer that lists what holds your space and leaves out the folders that only wrap it.**
+<h1 align="center">What Is Taking Up Space</h1>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="docs/largest-dark.png">
-  <img src="docs/largest-light.png" alt="The Largest view: five items that hold the space, each listed once, under a bar showing how full the disk is" width="760">
-</picture>
+<p align="center">
+  <b>A macOS disk analyzer that lists what holds your space and leaves out the folders that only wrap it.</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/jmstajim/WhatIsTakingUpSpace/releases/latest"><img src="https://img.shields.io/github/v/release/jmstajim/WhatIsTakingUpSpace?label=version" alt="Latest version"></a>
+  <a href="https://github.com/jmstajim/WhatIsTakingUpSpace/releases"><img src="https://img.shields.io/github/downloads/jmstajim/WhatIsTakingUpSpace/total?label=downloads" alt="Total downloads"></a>
+  <img src="https://img.shields.io/badge/macOS-26%2B-black?logo=apple" alt="macOS 26 or later">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue" alt="MIT license"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/jmstajim/WhatIsTakingUpSpace/releases/latest"><img src="https://img.shields.io/badge/Download_for_macOS-0A84FF?style=for-the-badge&logo=apple&logoColor=white" alt="Download for macOS"></a>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/largest-dark.png">
+    <img src="docs/largest-light.png" alt="The Largest view: five items that hold the space, each listed once, under a bar showing how full the disk is" width="760">
+  </picture>
+</p>
 
 Disk tools show a tree, so you dig. `Documents` is 10 GB. `Work` inside it is 9.6 GB. `Videos` inside that is 9 GB. Two of those three rows told you nothing. The **Largest** view shows `Videos` once and skips its parents.
 
